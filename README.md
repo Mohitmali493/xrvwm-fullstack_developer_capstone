@@ -1,3 +1,5 @@
-# Project Name
+# fullstack_developer_capstone
 
-Project Name: Django Web Application
+Repository Name: xrvwm-fullstack_developer_capstone
+
+Project Name: fullstack_developer_capstone
