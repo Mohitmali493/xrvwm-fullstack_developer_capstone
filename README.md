@@ -1,1 +1,3 @@
-# django-final-project
+# Project Name
+
+Project Name: Django Web Application
